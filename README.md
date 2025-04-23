@@ -1,11 +1,11 @@
-# Audio-Visual Emotion Detection with eNTERFACE Dataset
+# Audio-Visual Emotion Detection with eNTERFACE and Crema-D Datasets
 
 ## Overview
-This project explores audio-visual emotion detection using the **eNTERFACE** dataset. My approach involves combining audio and visual data through a series of preprocessing techniques and fusion strategies to enhance multimodal emotion recognition.
+This project explores audio-visual emotion detection using the **eNTERFACE** and **Crema-D** datasets. My approach involves combining audio and visual data through a series of preprocessing techniques and fusion strategies to enhance multimodal emotion recognition.
 
 ## Data Preprocessing and Fusion Strategies
 
-### Dataset: eNTERFACE
+### Dataset: eNTERFACE or Crema-D
 I selected the **eNTERFACE** dataset to provide both audio and visual data for emotion recognition tasks. The following preprocessing steps were used to manage multimodal inputs effectively:
 
 1. **MFCC and Video Frames (with Image Representation)**
