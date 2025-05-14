@@ -40,6 +40,12 @@ I utilized a pre-trained **VideoMAE encoder** model for multimodal sequence anal
 - Pre-trained Model Download: [TFVideoMAE_L_K400_16x224_FT](https://github.com/innat/VideoMAE/releases/download/v1.1/TFVideoMAE_L_K400_16x224_FT)
 
 The **VideoMAE encoder** is based on masked autoencoders and is designed to capture key feature representations from both audio and video data for emotion recognition.
+## Model Processing and Architecture
+
+![Processing and Model Architecture](https://github.com/mohammedghanemi/Master-Thesis-Emotion-detection-using-audio-visual-modalities-for-accident-prevention/blob/main/Images/ProcessingAndModelArchitecture.png?raw=true)
+
+*Figure: End-to-end processing pipeline and model architecture for multimodal emotion recognition using audio (MFCC/Spectrogram) and video frames.*
+
 
 ## Contact
 For any inquiries, please reach out to:
